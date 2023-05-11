@@ -23,9 +23,9 @@
 ![](https://github.com/ZhenLany/CoureWork/blob/main/Screenshot%202023-05-11%20110500.jpg)
 
 ## Архитектура
-Поместите диаграмму компонентов/классов модели
+Диаграмму компонентов/классов модели
 Укажите назначение пакетов scr, если это яно не слудете из названия
-![DAO1](https://user-images.githubusercontent.com/65451923/226867283-265ea649-35ed-474a-8164-62c315e95fb9.png)
+![DAO1](https://github.com/ZhenLany/CoureWork/blob/main/Screenshot%202023-05-11%20111201.jpg)
 
 
 ## Зависимости
