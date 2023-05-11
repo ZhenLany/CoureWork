@@ -12,19 +12,14 @@
 5. Тестирование разработанного продукта;
 6. Разработка сопроводительной документации.
 
-  - **Технологический стек**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-  - **Статус**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-  - **Ссылка на продукт или демо-экземпляр**
-  - Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two.
 
-
-**Скриншот рабочего окна приложения**: If the software has visual components, place a screenshot after the description; e.g.,
+**Скриншот рабочего окна приложения**:
 
 ![](https://github.com/ZhenLany/CoureWork/blob/main/Screenshot%202023-05-11%20110500.jpg)
 
 ## Архитектура
 Диаграмму компонентов/классов модели
-Укажите назначение пакетов scr, если это яно не слудете из названия
+
 ![DAO1](https://github.com/ZhenLany/CoureWork/blob/main/Screenshot%202023-05-11%20111201.jpg)
 
 
