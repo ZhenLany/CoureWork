@@ -18,7 +18,7 @@
 ![](https://github.com/ZhenLany/CoureWork/blob/main/Screenshot%202023-05-11%20110500.jpg)
 
 ## Архитектура
-Диаграмму компонентов/классов модели
+Диаграмму компонентов/классов модели:
 
 ![DAO1](https://github.com/ZhenLany/CoureWork/blob/main/Screenshot%202023-05-11%20111201.jpg)
 
